@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b8344b02-9f3c-4d1b-87a5-8132594dc714",
+    "data": [
+      {
+        "text": "address",
+        "meta": "@sys.address",
+        "alias": "address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

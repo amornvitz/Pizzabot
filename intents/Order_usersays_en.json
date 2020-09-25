@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b3bf1509-9013-406e-94a1-173187470d9f",
+    "data": [
+      {
+        "text": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "145f6d89-4126-4321-b6f4-62109442138a",
+    "data": [
+      {
+        "text": "pizza order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe1bfae3-bbde-4576-b94c-862b5c19f35d",
+    "data": [
+      {
+        "text": "order pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

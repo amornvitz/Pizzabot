@@ -1,0 +1,112 @@
+{
+  "id": "69df9dfb-c558-442f-87fa-a26fb9911514",
+  "name": "Nonveg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "carousel_card",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "Chicken Dominator\u0027 is one of the greatest masterpieces by Domino\u0027s Pizza. Enjoy the excellence of hand-tossed soft and moist dough with crispy golden crust",
+              "image": {
+                "url": "https://www.dominos.co.in//files/items/Dominator.jpg",
+                "accessibilityText": "Chicken Dominator"
+              },
+              "optionInfo": {
+                "key": "Chicken Dominator",
+                "synonyms": []
+              },
+              "title": "Chicken Dominator",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "Premium grilled chicken, crunchy fresh onions, and not one, not two, but three cheeses: mozzarella, provolone and cheddar on our hand-tossed crust. The result is a traditional summer cookout treat in one perfect pizza.",
+              "image": {
+                "url": "https://static.wixstatic.com/media/867948_9034d844c0bc4a0eb0d67d8b9d7648ff~mv2.jpg/v1/fill/w_372,h_372,al_c,lg_1,q_85/867948_9034d844c0bc4a0eb0d67d8b9d7648ff~mv2.webp",
+                "accessibilityText": "Pepper Barbecue Chicken pizza"
+              },
+              "optionInfo": {
+                "key": "Pepper Barbecue Chicken pizza",
+                "synonyms": []
+              },
+              "title": "Pepper Barbecue Chicken pizza",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "It\u0027s a true supreme pizza: bacon, pepperoni slices, red and green bell pepper, red onion, black olives, mozzarella, Parmesan, and basil.",
+              "image": {
+                "url": "https://www.dominos.co.in//files/items/Non-Veg_Supreme.jpg",
+                "accessibilityText": "Non Veg Supreme pizza"
+              },
+              "optionInfo": {
+                "key": "Non Veg Supreme pizza",
+                "synonyms": []
+              },
+              "title": "Non Veg Supreme pizza",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Chicken Dominator"
+            },
+            {
+              "title": "Pepper Barbecue Chicken p"
+            },
+            {
+              "title": "Non Veg Supreme pizza"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have options below please select your favorite!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

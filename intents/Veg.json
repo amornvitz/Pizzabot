@@ -1,0 +1,112 @@
+{
+  "id": "1abfff83-beda-4e6a-8984-14e24c033221",
+  "name": "Veg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "carousel_card",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
+              "image": {
+                "url": "https://www.dominos.co.in/blog/wp-content/uploads/2019/12/new_double_cheese_margherita.jpg",
+                "accessibilityText": "Margherita pizza"
+              },
+              "optionInfo": {
+                "key": "Margherita pizza",
+                "synonyms": []
+              },
+              "title": "Margherita pizza",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "The concept of farmhouse pizza is adding toppings which are available in all seasons and they compliment perfectly to each other.",
+              "image": {
+                "url": "https://www.dominos.co.in//files/items/Farmhouse.jpg",
+                "accessibilityText": "Farm house pizza"
+              },
+              "optionInfo": {
+                "key": "Farm house pizza",
+                "synonyms": []
+              },
+              "title": "Farm house pizza",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "Peppy paneer pizza has some mild bell peppers or capsicum. We have also thrown in some soft paneer making it a very desi pizza.",
+              "image": {
+                "url": "https://www.dominos.co.in//files/items/Peppy_Paneer.jpg",
+                "accessibilityText": "Pepper Panner pizza"
+              },
+              "optionInfo": {
+                "key": "Pepper Panner pizza",
+                "synonyms": []
+              },
+              "title": "Pepper Panner pizza",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Margherita pizza"
+            },
+            {
+              "title": "Farm house pizza"
+            },
+            {
+              "title": "Pepper Panner pizza"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have options below please select your favorite!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

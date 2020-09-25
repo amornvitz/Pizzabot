@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2d199672-6d46-4086-be67-d565754540eb",
+    "data": [
+      {
+        "text": "Non Veg Supreme pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19dcc781-a96a-4b2b-8209-2ae031e41bc6",
+    "data": [
+      {
+        "text": "Pepper Barbecue Chicken pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c9f15f-7c82-4f0c-b00a-94490f13141f",
+    "data": [
+      {
+        "text": "Chicken Dominator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df4aaaa8-a9f6-463d-ae31-1408a7a60d51",
+    "data": [
+      {
+        "text": "Pepper Panner pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f82f49a9-e8d9-4be3-9c4a-9f83b9ae416f",
+    "data": [
+      {
+        "text": "Farm house pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27ba5e7d-8f73-4787-bf36-ca6f0e4d6d11",
+    "data": [
+      {
+        "text": "Margherita pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

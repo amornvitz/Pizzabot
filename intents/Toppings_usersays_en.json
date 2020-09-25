@@ -1,0 +1,41 @@
+[
+  {
+    "id": "92d8203f-c337-4e97-ba34-2a9554404aa7",
+    "data": [
+      {
+        "text": "Medium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81b394c0-0aeb-49db-a118-5db85a7e81fd",
+    "data": [
+      {
+        "text": "Large",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91eb3408-364b-4547-a31b-913ed6f07eb3",
+    "data": [
+      {
+        "text": "Small",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

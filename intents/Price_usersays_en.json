@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d9fe7951-d998-4155-9ef7-c33f38e660e7",
+    "data": [
+      {
+        "text": "Olives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10f81830-2577-4f81-8c2b-2b3a67fe3fbc",
+    "data": [
+      {
+        "text": "Fried Onion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "840e3dc8-d41b-4568-bc72-0cee0309345a",
+    "data": [
+      {
+        "text": "Bacon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeb50c4f-698d-43c9-92c4-97f72a2e4cad",
+    "data": [
+      {
+        "text": "Sausages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "771597fd-1c35-4697-ac3d-73367de7c557",
+    "data": [
+      {
+        "text": "Pepperoni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
